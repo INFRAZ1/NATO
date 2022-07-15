@@ -8,4 +8,7 @@ It now includes steps for github
 ![img_github_create_readme2](https://user-images.githubusercontent.com/107608737/174285258-cd3a9d9a-180a-4a4e-90af-326e81957226.png)
 
 
-Yes i have made the changes in the git hub, in the coding.
+Yes i have made the changes in the git hub, in the coding
+
+made the changes
+
